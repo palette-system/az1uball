@@ -8,6 +8,8 @@
 
 https://booth.pm/ja/items/4202085
 
+<br><br>
+
 ## 組み立て方
 
 <br>
@@ -74,3 +76,12 @@ https://twitter.com/4py1/status/1568249131805835266
 断面<br>
 <img src="/images/danmen.png" width="700"><br>
 
+<br><br>
+
+## その他情報
+<br>
+動作電圧：　3.3V or 5V （どちらでも動作します）<br>
+消費電力：　約 8mA<br>
+I2Cアドレス：　0x0A<br>
+
+<br><br>
