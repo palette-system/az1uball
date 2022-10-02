@@ -8,6 +8,13 @@
 
 https://booth.pm/ja/items/4202085
 
+## 組み立て方
+
+<br>
+<img src="/images/build.jpg" width="700"><br>
+
+<br><br>
+
 ## 接続方法（ProMicro、Raspberry Pi Pico）
 
 VCC、GND、SDA、SCLの接続と、SDA、SCLにプルアップ抵抗が必要です。<br>
@@ -38,7 +45,9 @@ https://zenn.dev/takashicompany/articles/aed80d4eaff308
 
 TRRSのジャックから直接接続できます<br>
 <br>
-※ プルアップ抵抗は必要ありません。<br><br>
+※ プルアップ抵抗は必要ありません。<br>
+　　　（ケーブルが長くて反応しない場合は2kΩ程度の抵抗でプルアップして下さい）<br><br>
+
 <img src="/images/conn_az_1.png" width="700"><br>
 
 <br><br>
