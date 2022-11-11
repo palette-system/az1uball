@@ -89,7 +89,8 @@ https://ameblo.jp/pta55/entry-12654450554.html
 <br>
 <br>
 ３．ボード設定を開き Chip を ATiny424 にして、Clock を 10MHz internal にして、書込みを実行する。<br>
-　　(ボード設定のその他の項目はデフォルトのままでOKです)
+　　(ボード設定のその他の項目はデフォルトのままでOKです)<br><br>
+<img src="/images/board_set.png" width="500"><br>
 <br>
 <br>
 
