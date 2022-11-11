@@ -78,6 +78,21 @@ https://twitter.com/4py1/status/1568249131805835266
 
 <br><br>
 
+## ファームウェアの開発環境の作り方
+<br>
+１．このサイトの手順で書込み機や、ArduinoIDEのインストールを行う<br>
+https://ameblo.jp/pta55/entry-12654450554.html
+<br>
+<br>
+２．tiny424_trackball.inoをArduinoIDEで開く。<br>
+<a href="/firmware/tiny424_trackball/tiny424_trackball.ino">tiny424_trackball.ino</a>
+<br>
+<br>
+３．ボード設定を開き Chip を ATiny424 にして、Clock を 10MHz internal にして、書込みを実行する。<br>
+　　(ボード設定のその他の項目はデフォルトのままでOKです)
+<br>
+<br>
+
 ## その他情報
 <br>
 動作電圧：　3.3V or 5V （どちらでも動作します）<br>
