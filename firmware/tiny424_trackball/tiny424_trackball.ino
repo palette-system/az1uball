@@ -72,7 +72,7 @@ void requestEvent() {
   // トラックボール操作の情報を送る
   Wire.write(send_input, 5);
   // バッファをリセット
-  memset(send_input, 0x00, 5);
+  memset(send_input, 0x00, 4);
 }
 
 // ホールセンサーの回転を検知した時のイベント 0=左 / 1=右 / 2=上 / 3=下
@@ -120,6 +120,10 @@ void attachDown() {
 
 void loop() {
   // タクトスイッチの状態を送信バッファに反映
-  if (!digitalRead(A6)) send_input[4] = 0x80;
+  if (!digitalRead(A6)) {
+    send_input[4] = 0x80;
+  } else {
+    send_input[4] = 0x00;
+  }
   delay(2);
 }
