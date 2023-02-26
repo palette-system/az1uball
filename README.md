@@ -70,7 +70,7 @@ https://twitter.com/4py1/status/1568249131805835266
 <br>
 トッププレート<br>
 <img src="/images/top_plate.png" width="400"><br>
-[KiCadデータ](/hardware/plate_top/)
+<a href="/hardware/plate_top/">トッププレート KiCadデータ</a>
 
 <br><br>
 
