@@ -22,6 +22,7 @@ https://booth.pm/ja/items/4202085
 VCC、GND、SDA、SCLの接続と、SDA、SCLにプルアップ抵抗が必要です。<br>
 キーボード側に実装してある必要があります。<br>
 <br>
+※ 2023/5/23 以降のロットではプルアップ抵抗は必要ありません。<br>
 ※ 抵抗は 10kΩ ～ 2kΩ 程度<br>
 <br>
 <img src="/images/conn_promicro_1.png" width="700"><br>
