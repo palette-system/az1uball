@@ -37,9 +37,22 @@ VCC、GND、SDA、SCLの接続と、SDA、SCLにプルアップ抵抗が必要�
 ## 設定方法（QMK）
 <br>
 PIM447と同じ方法で使えるようになります。<br>
-takashicompany さんのPIM447のブログがあるのでこの辺りを参考にして頂けたらです。<br>
-<br>
+ブログがあるのでこの辺りを参考にして頂けたらです。<br>
+
+<br><br>
+
+takashicompany 様（PIM447）<br>
 https://zenn.dev/takashicompany/articles/aed80d4eaff308
+
+<br><br>
+
+@74thの制作ログ 様（AZ1UBALL）<br>
+https://74th.hateblo.jp/entry/2022/10/09/181609
+
+<br><br>
+
+taka8aru 様（AZ1UBALL）<br>
+https://taka8aru.blogspot.com/2023/07/az1uballpro-microqmk-firmware-34.html
 
 <br><br>
 
