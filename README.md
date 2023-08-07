@@ -46,7 +46,7 @@ https://zenn.dev/takashicompany/articles/aed80d4eaff308
 
 <br><br>
 
-@74thの制作ログ 様（AZ1UBALL）<br>
+@74thの制作ログ 様（CircuitPython）（AZ1UBALL）<br>
 https://74th.hateblo.jp/entry/2022/10/09/181609
 
 <br><br>
