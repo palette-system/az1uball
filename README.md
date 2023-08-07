@@ -80,6 +80,13 @@ https://twitter.com/4py1/status/1568249131805835266
 
 <br><br>
 
+## フットプリント
+<br>
+
+<img src="/kicad/footprint.png" width="500"><br>
+<a href="/kicad/">AZ1UBALL.kicad_mod</a>
+<br><br>
+
 ## ファームウェアの開発環境の作り方
 <br>
 １．このサイトの手順で書込み機や、ArduinoIDEのインストールを行う<br>
