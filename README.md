@@ -56,6 +56,11 @@ https://taka8aru.blogspot.com/2023/07/az1uballpro-microqmk-firmware-34.html
 
 <br><br>
 
+Yuta Sakai 様（AZ1UBALL）
+https://qiita.com/unbosoms/items/e58f12502115bfb7c303
+
+<br><br>
+
 
 ## 接続方法（AZ-CORE、えむごっち）
 
