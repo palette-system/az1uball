@@ -61,6 +61,14 @@ https://qiita.com/unbosoms/items/e58f12502115bfb7c303
 
 <br><br>
 
+metaphor 様（AZ1UBALL）<br>
+デフォルト：大画面でもストレスのないカーソル移動<br>
+レイヤー１：スクロールモード<br>
+レイヤー３：細かいカーソル移動<br>
+https://github.com/hayashiroto/zettelkasten-keyboard/blob/main/te96/rev1/keymaps/via_az1u/keymap.c
+
+<br><br>
+
 
 ## 接続方法（AZ-CORE、えむごっち）
 
